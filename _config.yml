@@ -1,1 +1,4 @@
 remote_theme: "mmistakes/minimal-mistakes"
+url                      : "http://www.safacreations.net"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "Nawter/nawter.github.com"
