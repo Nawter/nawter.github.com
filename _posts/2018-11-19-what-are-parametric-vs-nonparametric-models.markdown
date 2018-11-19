@@ -20,9 +20,9 @@ Some examples of parametric machine learning algorithms are:
 - Naive Bayes
 - Perceptron
 
-![Figure 1 - Parametric Model.]({{: .center-image "/assets/param_nonparam/param@2x.png"}})
+![Figure 1 - Parametric Model.]({{"/assets/param_nonparam/param@2x.png"}})
 
-
+![Picture description]("/assets/param_nonparam/param@2x.png"){: .center-image }
 ## Nonparametric models
 Nonparametric methods are good when you have a lot of data and no prior knowledge, and when you don’t want to worry too much about choosing just the right features.
 
