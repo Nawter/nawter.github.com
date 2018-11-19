@@ -33,7 +33,8 @@ Some examples of nonparametric models are:
 - Support Vector Machines with Gaussian Kernels
 - Artificial Neural Networks
 
-![Figure 2 - Nonparametric Model.]({{ "/assets/param_nonparam/nonparam@2x.png"}})
+![Figure 2 - Nonparametric Model.](/assets/param_nonparam/nonparam@2x.png)
+
 *Figure 2 – Nonparametric Model.*
 
 
