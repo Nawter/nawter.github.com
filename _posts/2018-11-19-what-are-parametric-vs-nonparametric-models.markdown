@@ -20,7 +20,7 @@ Some examples of parametric machine learning algorithms are:
 - Naive Bayes
 - Perceptron
 
-![Figure 1 - Parametric Model.]({{ "/assets/param_nonparam/param@2x.png"}})
+![Figure 1 - Parametric Model.]({{: .center-image "/assets/param_nonparam/param@2x.png"}})
 
 
 ## Nonparametric models
