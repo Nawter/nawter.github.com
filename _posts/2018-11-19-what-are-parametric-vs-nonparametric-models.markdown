@@ -1,6 +1,6 @@
 ---
 title: Parametric vs Nonparametric models?
-date: {}
+date: 2018-11-19 
 categories:
   - MachineLearning
 excerpt: Explaining the difference between parametric and nonparametric models.

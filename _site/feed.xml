@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-21T23:55:52+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2018/10/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-10-21T23:55:33+02:00</published><updated>2018-10-21T23:55:33+02:00</updated><id>http://localhost:4000/jekyll/update/2018/10/21/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/10/21/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-11-19T12:45:06+01:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Parametric vs Nonparametric models?</title><link href="/machinelearning/2018/11/19/what-are-parametric-vs-nonparametric-models.html" rel="alternate" type="text/html" title="Parametric vs Nonparametric models?" /><published>2018-11-19T00:00:00+01:00</published><updated>2018-11-19T00:00:00+01:00</updated><id>/machinelearning/2018/11/19/what-are-parametric-vs-nonparametric-models</id><content type="html" xml:base="/machinelearning/2018/11/19/what-are-parametric-vs-nonparametric-models.html">&lt;p&gt;There are two types of models, parametric and non-parametric, let’s start with parametric models.&lt;/p&gt;
+
+&lt;h2 id=&quot;parametric-model&quot;&gt;Parametric model&lt;/h2&gt;
+
+&lt;p&gt;A learning model that summarizes data with a set of parameters of fixed size (independent of the number of training examples). No matter how much data you throw at a parametric model, it won’t change its mind about how many parameters it needs.&lt;/p&gt;
+
+&lt;p&gt;Some examples of parametric machine learning algorithms are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Linear Regression&lt;/li&gt;
+  &lt;li&gt;Linear Support Vector Machines&lt;/li&gt;
+  &lt;li&gt;Logistic Regression&lt;/li&gt;
+  &lt;li&gt;Naive Bayes&lt;/li&gt;
+  &lt;li&gt;Perceptron&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;Figure 1 - Parametric Model.&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;nonparametric-models&quot;&gt;Nonparametric models&lt;/h2&gt;
+&lt;p&gt;Nonparametric methods are good when you have a lot of data and no prior knowledge, and when you don’t want to worry too much about choosing just the right features.&lt;/p&gt;
+
+&lt;p&gt;Some examples of nonparametric models are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Decision Trees&lt;/li&gt;
+  &lt;li&gt;K-Nearest Neighbor&lt;/li&gt;
+  &lt;li&gt;Support Vector Machines with Gaussian Kernels&lt;/li&gt;
+  &lt;li&gt;Artificial Neural Networks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/param_nonparam/nonparam@2x.png&quot; alt=&quot;Figure 2 - Nonparametric Model.&quot; /&gt;
+ &lt;strong&gt;Figure 2 – Nonparametric Model.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;In conclusion with parametric models to predict new data, you only need to know the parameters of the model. In nonparametric methods are more flexible and for forecasting new data you need to know the parameters of the model and the state of the data that has been observed.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Explaining the difference between parametric and nonparametric models.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2018/10/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-10-21T23:55:33+02:00</published><updated>2018-10-21T23:55:33+02:00</updated><id>/jekyll/update/2018/10/21/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2018/10/21/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
