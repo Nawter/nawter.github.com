@@ -2,7 +2,7 @@
 title: 'Parametric vs Nonparametric models?'
 date: 2018-11-19
 categories:
-  - Machine Learning
+  - MachineLearning
 excerpt: Explaining the difference between parametric and nonparametric models.
 
 ---
@@ -20,6 +20,9 @@ Some examples of parametric machine learning algorithms are:
 - Naive Bayes
 - Perceptron
 
+![Figure 1 - Parametric Model.]({{ "/assets/param_nonparam/param@2x.png"}})
+**Figure 1 – Parametric Model.**
+
 ## Nonparametric models
 Nonparametric methods are good when you have a lot of data and no prior knowledge, and when you don’t want to worry too much about choosing just the right features.
 
@@ -29,5 +32,9 @@ Some examples of nonparametric models are:
 - K-Nearest Neighbor
 - Support Vector Machines with Gaussian Kernels
 - Artificial Neural Networks
+
+![Figure 2 - Nonparametric Model.]({{ "/assets/param_nonparam/nonparam@2x.png"}})
+**Figure 2 – Nonparametric Model.**
+
 
 *In conclusion with parametric models to predict new data, you only need to know the parameters of the model. In nonparametric methods are more flexible and for forecasting new data you need to know the parameters of the model and the state of the data that has been observed.*
