@@ -13,31 +13,46 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Safa Creations 
+name: Safa Creations LTD
+email: zaidalissaalmaliki@gmail.com
+description: Intersection between Data Science and Robotics
+
+parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/startup3.jpg
+
+
+github: https://github.com/nawter
+medium: https://medium.com
+
+
+
+baseurl: / # if your site is located at /blog or /home, enter it here, otherwise leave it as '/'
+url: https://www.safacreations.net # the url of your site
+medium: https://medium.com/@zaidalissa/
+github:  https://github.com/nawter
+
+#google_analytics_tracking_id: UA-110869900-1 # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
+
+cookies_banner: show # The value "show" will show the cookies banner, the value "none" will hide the banner.
+
+cookie_accept_message: Thanks!
+
+medium_username: zaidalissa 
+
+
+
+
 
 # Build settings
 markdown: kramdown
-theme: minima
+
+permalink: pretty
 plugins:
   - jekyll-feed
+  - jekyll-assets
+  - jekyll-sass-converter
+  - jekyll-minifier
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+collections:
+  - medium_posts
