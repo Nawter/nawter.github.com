@@ -7,6 +7,7 @@ gem "dotenv"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
+  gem "jekyll-paginate"
   gem "jekyll-assets"
   gem "jekyll-minifier"
   gem 'jekyll-display-medium-posts', '~> 0.3.0'

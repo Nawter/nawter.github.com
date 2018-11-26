@@ -65,6 +65,7 @@ GEM
       htmlcompressor (~> 0.4)
       jekyll (>= 3.5)
       uglifier (~> 4.1)
+    jekyll-paginate (1.1.0)
     jekyll-sanity (1.2.0)
       jekyll (~> 3.1)
     jekyll-sass-converter (1.5.2)
@@ -132,6 +133,7 @@ DEPENDENCIES
   jekyll-display-medium-posts (~> 0.3.0)
   jekyll-feed (~> 0.6)
   jekyll-minifier
+  jekyll-paginate
   materialize-sass
   minima (~> 2.0)
   tzinfo-data
