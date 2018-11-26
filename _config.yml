@@ -16,7 +16,7 @@
 title: Safa Creations 
 name: Safa Creations LTD
 email: zaidalissaalmaliki@gmail.com
-description: Intersection between Data Science and Robotics
+description: Intersection between Machine Learning and Software Engineering
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
@@ -36,7 +36,7 @@ github:  https://github.com/nawter
 
 cookies_banner: show # The value "show" will show the cookies banner, the value "none" will hide the banner.
 
-cookie_accept_message: Thanks!
+cookie_accept_message: Thank you amigo!
 
 medium_username: zaidalissa 
 
