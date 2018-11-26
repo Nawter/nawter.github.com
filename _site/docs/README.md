@@ -8,7 +8,7 @@ A Jekyll Theme based on [Material Design](https://material.io/) using [Materiali
 
 <a href="https://imgur.com/D9DSyuk"><img src="https://i.imgur.com/D9DSyuk.gif" title="source: imgur.com" /></a>
 
-### [Live Demo](https://zaidalissa.com)
+### [Live Demo](https://www.safacreations.net)
 
 ## Installation
 
