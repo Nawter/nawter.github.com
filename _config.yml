@@ -32,7 +32,7 @@ url: https://www.safacreations.net # the url of your site
 medium: https://medium.com/@zaidalissa/
 github:  https://github.com/nawter
 
-#google_analytics_tracking_id: UA-110869900-1 # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
+google_analytics_tracking_id:  UA-129904707-1 # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
 
 #cookies_banner: show # The value "show" will show the cookies banner, the value "none" will hide the banner.
 
