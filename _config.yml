@@ -22,11 +22,6 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 
-github: https://github.com/nawter
-medium: https://medium.com
-
-
-
 baseurl: / # if your site is located at /blog or /home, enter it here, otherwise leave it as '/'
 url: https://www.safacreations.net # the url of your site
 medium: https://medium.com/@zaidalissa/
@@ -40,9 +35,7 @@ cookie_accept_message: Thanks amigo!
 
 medium_username: zaidalissa 
 
-
-
-
+theme: jekyll-material-theme
 
 # Build settings
 markdown: kramdown
@@ -56,4 +49,53 @@ plugins:
 
 collections:
   - medium_posts
+
+# Skill icons from https://konpa.github.io/devicon/
+
+skills:
+  - name: amazonwebservices
+  - name: angularjs
+  - name: apache
+  - name: atom
+  - name: bitbucket
+  - name: c
+  - name: confluence
+  - name: cplusplus
+  - name: cucumber
+  - name: django
+  - name: debian
+  - name: docker
+  - name: gimp
+  - name: git
+  - name: github
+  - name: gitlab
+  - name: html5
+  - name: inkscape
+  - name: itellij
+  - name: java
+  - name: javascript
+  - name: linux
+  - name: mongodb
+  - name: mysql
+  - name: nginx
+  - name: nodejs
+  - name: oracle
+  - name: postgresql
+  - name: python
+  - name: pycharm
+  - name: redis
+  - name: ruby
+  - name: rubymine
+  - name: sass
+  - name: slack
+  - name: sourcetree
+  - name: ssh
+  - name: tomcat
+  - name: trello
+  - name: ubuntu
+  - name: vim
+  - name: wordpress
+
+icon_size: 50 # font-size of icons in px
+colored: colored # Leave blank for black and white icons
 

@@ -67,6 +67,12 @@ GEM
       jekyll (~> 3.5)
     jekyll-feed (0.11.0)
       jekyll (~> 3.3)
+    jekyll-material-theme (0.6.2)
+      jekyll (~> 3.5)
+      jekyll-assets (~> 3.0)
+      jekyll-feed (~> 0.9)
+      jekyll-minifier (~> 0.1)
+      kramdown (~> 1.16)
     jekyll-minifier (0.1.8)
       cssminify2 (~> 2.0)
       htmlcompressor (~> 0.4)
@@ -139,6 +145,7 @@ DEPENDENCIES
   jekyll-assets
   jekyll-display-medium-posts (~> 0.4.1)
   jekyll-feed (~> 0.6)
+  jekyll-material-theme
   jekyll-minifier
   jekyll-paginate
   materialize-sass
