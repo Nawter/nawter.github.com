@@ -34,9 +34,9 @@ github:  https://github.com/nawter
 
 google_analytics_tracking_id:  UA-129904707-1 # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
 
-#cookies_banner: show # The value "show" will show the cookies banner, the value "none" will hide the banner.
+cookies_banner: show # The value "show" will show the cookies banner, the value "none" will hide the banner.
 
-#cookie_accept_message: Thank you amigo!
+cookie_accept_message: Thanks amigo!
 
 medium_username: zaidalissa 
 
