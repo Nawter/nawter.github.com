@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Safa Creations 
+title: Safa Creations
 name: Safa Creations LTD
 email: zaidalissaalmaliki@gmail.com
 description: Intersection between Machine Learning and Software Engineering
@@ -29,13 +29,13 @@ github:  https://github.com/nawter
 
 google_analytics_tracking_id:  UA-129904707-1 # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
 
-cookies_banner: show # The value "show" will show the cookies banner, the value "none" will hide the banner.
+cookies_banner: show
 
 cookie_accept_message: Thanks amigo!
 
-medium_username: zaidalissa 
+medium_username: zaidalissa
 
-theme: jekyll-material-theme
+#theme: jekyll-material-theme
 
 # Build settings
 markdown: kramdown
@@ -50,14 +50,54 @@ plugins:
 collections:
   - medium_posts
 
+# Settings for the porfolio section
+
+project_one: Numerai Competition
+project_one_description: Numerai Competition
+project_one_url: https://github.com/Nawter/numer.ai
+project_button: Github
+project_one_icon:
+
+
+project_two: Quantics Competition
+project_two_description: Quantics Competition
+project_two_url: https://github.com/Nawter/Quantiacs
+project_button: Github
+project_two_icon:
+
+project_three: GPUHOG
+project_three_description: GPUHOG
+project_three_url: https://github.com/Nawter/GPUHOG
+project_button: Github
+project_three_icon:
+
+project_four: GPUSIFT
+project_four_description: GPUSIFT
+project_four_url: https://github.com/Nawter/GPUSIFT
+project_button: Github
+project_four_icon:
+
+project_five: Semantic Search
+project_five_description: Semantic Search
+project_five_url: https://github.com/Nawter/SemanticSearch
+project_button: Github
+project_five_icon:
+
+project_six: Amazon Sentiment Analysis
+project_six_description: Amazon Sentiment Analysis
+project_six_url: https://github.com/Nawter/NaturalLanguageOnAmazon
+project_button: Github
+project_six_icon:
+
+
 # Skill icons from https://konpa.github.io/devicon/
 
 skills:
   - name: amazonwebservices
   - name: angularjs
   - name: apache
-  - name: atom
-  - name: bitbucket
+
+
   - name: c
   - name: confluence
   - name: cplusplus
@@ -98,4 +138,3 @@ skills:
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
-
