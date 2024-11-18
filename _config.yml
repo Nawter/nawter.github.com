@@ -23,13 +23,9 @@ parallax_image_two: assets/images/startup3.jpg
 
 
 baseurl: / # if your site is located at /blog or /home, enter it here, otherwise leave it as '/'
-url: https://nawter.github.io/ # the url of your site
+
 medium: https://medium.com/@zaidalissa/
 github:  https://github.com/nawter
-
-cookies_banner: show
-
-cookie_accept_message: Thanks amigo!
 
 medium_username: zaidalissa
 
