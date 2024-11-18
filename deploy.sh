@@ -5,4 +5,4 @@ export MEDIUM_USERNAME=zaidalissa
 ruby -v
 gem install feedjira
 jekyll build
-aws s3 sync /Users/zaidalissa/Documents/Development/zaidalissa/_site s3://www.safacreations.net --delete
+
